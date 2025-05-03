@@ -38,6 +38,8 @@ write about historical failure to justify matrix multiplication?
 
 ### By me
 
+ * Issue [#279](https://github.com/ajschumacher/ajschumacher.github.io/issues/279): linear algebra
+ * Issue [#284](https://github.com/ajschumacher/ajschumacher.github.io/issues/284): matrix factorization
  * [A brief development of matrix multiplication](https://planspace.org/20240624-brief_development_matrix_multiplication/)
  * [The flow metaphor for matrix multiplication](https://planspace.org/20210915-flow_metaphor_for_matrix_multiplication/)
 

@@ -80,6 +80,49 @@ page 61, A=LDU asked for, without explanation, in Problem Set 2.3
 ---
 
 page 64
+
+![shuffling](shuffling.png)
+
 but no; a riffle shuffle is not a random permutation
 https://projecteuclid.org/journals/annals-of-applied-probability/volume-2/issue-2/Trailing-the-Dovetail-Shuffle-to-its-Lair/10.1214/aoap/1177005705.full?tab=ArticleFirstPage
 what a weird thing to say
+
+
+---
+
+page 66 section on:
+
+"Partial Pivoting" to Reduce Roundoff Errors
+
+is talking about "The computation is more stable if" blah blah
+
+then there's the FFT example, which is admittedly cool...
+
+
+---
+
+transpose is discussed before introduced on page 67
+
+
+---
+
+page 68 - fun examples?
+
+![meaning of inner products.png](meaning_of_inner_products.png)
+
+
+---
+
+trying to explain stuff so much, but then in 3.2 it's "special solutions" and "Set to 0 and 1" and not a lot of rationale
+
+
+---
+
+> The word _echelon_ means that the 1's in R_0 go steadily down, left to right. (page 85)
+
+real origin is cooler... "late 18th century (in echelon (sense 2 of the noun)): from French échelon, from échelle ‘ladder’, from Latin scala"
+
+
+---
+
+occasional mentions of MATLAB...

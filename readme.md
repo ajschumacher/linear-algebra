@@ -7,11 +7,26 @@ What even is it, why would anyone care, and how should it be taught, if indeed i
 
 ## Notes on conceptualization
 
+ * Linear Algebra as the math of multiple dimensions: position relative to other topics (algebra, calculus/analysis, multivariate calculus, more?) and applications (physics, etc.)
+     * something about not being proof-oriented: reason to learn linear algebra: using it, vs. developing it mathematically/doing proofs (Do you really need "mathematical sophistication"?)
+
+ * things to repeat for numbers, vectors, matrices:
+     * duality between data and function/transform
+         * Transform view: where the output can be
+         * Data view: where the points are
+     * order doesn't matter, as long as consistent (for vectors/matricies)
+         * Andrew Ng mentions row VS column matrices decision in [batch 256](https://www.deeplearning.ai/the-batch/issue-256/)
+
  * Transform a problem into a matrix problem
  * Can it be solved?
      * Analogy with zero: Is this matrix like zero? (Can we divide by it and get a unique answer?)
 
 Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a solution by multiplying by invertible things?
+
+> "row echelon form" isn't a "form" of the matrix! It's the matrix times some other nonsense! ><
+> what lies are we teaching the children!?
+
+Dimensions are degrees of freedom
 
 
 ---
@@ -30,6 +45,7 @@ Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a 
      * [my post](https://planspace.org/20240616-linear_algebra_done_right/)
  * [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/) (Gilbert Strang, 2020)
      * [notes](lafe/)
+ * [3Blue1Brown](https://www.3blue1brown.com/) on [linear algebra](https://www.3blue1brown.com/topics/linear-algebra)
  * [Vector](https://press.uchicago.edu/ucp/books/book/chicago/V/bo213793784.html): A Surprising Story of Space, Time, and Mathematical Transformation (Robyn Arianrhod, 2024)
 
 ### Not very looked at by me

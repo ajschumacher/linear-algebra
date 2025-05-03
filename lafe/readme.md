@@ -135,3 +135,10 @@ occasional mentions of MATLAB...
 3 is some BS
 
 (because "elimination" really means multiplying by other matrices, so A isn't the same afterward, and it's the spaces of the product that it's talking about here...)
+
+
+---
+
+"incidence form" of graphs, for Kirchhoff's voltage/current laws
+
+(I think was mentioned in here?)

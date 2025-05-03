@@ -5,6 +5,17 @@ What even is it, why would anyone care, and how should it be taught, if indeed i
 
 ---
 
+## Notes on conceptualization
+
+ * Transform a problem into a matrix problem
+ * Can it be solved?
+     * Analogy with zero: Is this matrix like zero? (Can we divide by it and get a unique answer?)
+
+Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a solution by multiplying by invertible things?
+
+
+---
+
 ## Existing things about Linear Algebra
 
  * [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/) (Gilbert Strang, 2020)

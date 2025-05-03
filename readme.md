@@ -8,6 +8,9 @@ What even is it, why would anyone care, and how should it be taught, if indeed i
 ## Notes on conceptualization
 
  * Linear Algebra: Mathematics for Multiple Dimensions ([post](https://planspace.org/20240624-brief_development_matrix_multiplication/))
+     * Now thinking: is the focus on "dimension" premature?
+     * DATA not datum
+     * coordinates: numbers together
  * Linear Algebra as the math of multiple dimensions: position relative to other topics (algebra, calculus/analysis, multivariate calculus, more?) and applications (physics, etc.)
      * something about not being proof-oriented: reason to learn linear algebra: using it, vs. developing it mathematically/doing proofs (Do you really need "mathematical sophistication"?)
 
@@ -30,6 +33,12 @@ Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a 
 Dimensions are degrees of freedom
 
 write about historical failure to justify matrix multiplication?
+
+ * Central idea of transformations
+     * Problem into formulation that permits solution
+     * All mathematics as transformations from like to like
+     * Difference in transforming a non-mathematical thing into a mathematical thing
+         * Is this pure vs. applied math?
 
 
 ---

@@ -20,6 +20,11 @@ Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a 
 
  * [Linear Algebra for Everyone](https://math.mit.edu/~gs/everyone/) (Gilbert Strang, 2020)
      * [notes](lafe/)
+ * [Linear algebra, 3rd ed.](https://link.springer.com/book/10.1007/978-1-4757-1949-9) (Serge Lang, 1987)
+     * "There are other great books out there that I use in the background as well. One of my favorites is the Serge Lang book that is simply called, "Linear Algebra.".  I would say that most people who teach or are interested in Linear Algebra know of this classic book." (Michael "Mike" Curry, at Bunker Hill Community College)
+ * [Elementary Linear Algebra, 8th ed.]() (Ron Larson, 2016)
+     * Cengage textbook used at Bunker Hill Community College, "chosen by the BHCC math department," studied by 
+David Cerna.
  * [The Theory of Matrices](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/gantmacher1.pdf) (F. R. Gantmacher, 1959)
      * This was [linked](https://x.com/predict_addict/status/1892590757699002844) by [Valeriy M.](https://x.com/predict_addict) as "The Holy Grail of forbidden knowledge about matrices' math." (She also maintains [Awesome_Math_Books](https://github.com/valeman/Awesome_Math_Books), where both volumes one and two are listed with _five_ fire emojis.
  * [Vector](https://press.uchicago.edu/ucp/books/book/chicago/V/bo213793784.html): A Surprising Story of Space, Time, and Mathematical Transformation (Robyn Arianrhod, 2024)

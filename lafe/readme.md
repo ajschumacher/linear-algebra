@@ -126,3 +126,12 @@ real origin is cooler... "late 18th century (in echelon (sense 2 of the noun)): 
 ---
 
 occasional mentions of MATLAB...
+
+
+---
+
+![subspace dims](subspace_dims.png)
+
+3 is some BS
+
+(because "elimination" really means multiplying by other matrices, so A isn't the same afterward, and it's the spaces of the product that it's talking about here...)

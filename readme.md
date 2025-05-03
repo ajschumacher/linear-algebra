@@ -7,6 +7,7 @@ What even is it, why would anyone care, and how should it be taught, if indeed i
 
 ## Notes on conceptualization
 
+ * Linear Algebra: Mathematics for Multiple Dimensions ([post](https://planspace.org/20240624-brief_development_matrix_multiplication/))
  * Linear Algebra as the math of multiple dimensions: position relative to other topics (algebra, calculus/analysis, multivariate calculus, more?) and applications (physics, etc.)
      * something about not being proof-oriented: reason to learn linear algebra: using it, vs. developing it mathematically/doing proofs (Do you really need "mathematical sophistication"?)
 
@@ -27,6 +28,8 @@ Lots of re-expression and reduced echelon form etc. stuff: Can we move toward a 
 > what lies are we teaching the children!?
 
 Dimensions are degrees of freedom
+
+write about historical failure to justify matrix multiplication?
 
 
 ---
